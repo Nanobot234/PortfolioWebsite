@@ -1,2 +1,2 @@
 # PortfolioWebsite
-persona  Portfolio site to showcase my work
+personal  Portfolio site to showcase my work
